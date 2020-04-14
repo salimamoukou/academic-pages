@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/salimamoukou", content_dir = "", rep
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "salimamoukou@gmail.com"
-phone = "+33673208860"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +97,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["", ""]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
