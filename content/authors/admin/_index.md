@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-I am working at the intersection of deep learning, dynamical systems and optimization.
+I am working at the intersection of deep learning, dynamical systems and also interested in making models interpretable.
