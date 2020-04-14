@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/salimamoukou", content_dir = "", rep
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "salimamoukou@gmail.com"
-phone = ""
+phone = "+33673208860"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -106,7 +106,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/salim_amk0"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "salimamoukou@hotmail.com"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "salimamoukou@hotmail.com"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = ""},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = ""},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = ""},
