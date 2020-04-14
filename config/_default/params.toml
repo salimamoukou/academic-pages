@@ -106,7 +106,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/salim_amk0"},
-  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "salimamoukou@hotmail.com"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = ""},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = ""},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = ""},
