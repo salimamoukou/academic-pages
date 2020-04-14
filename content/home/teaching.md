@@ -27,5 +27,4 @@ date_format = "2020"
   date_end = ""
   description = "Tutorial and practical work "
 
-*
 +++
