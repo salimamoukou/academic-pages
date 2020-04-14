@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Forest"
+theme = "Ocean"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -107,8 +107,8 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = ""},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = ""},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = ""},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = ""},
+  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = ""},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = ""},
   ]
 
