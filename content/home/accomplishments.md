@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   title = "Statistical inference and modelling"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2019-12-01"
   date_end = ""
-  description = ""
+  description = "Tutorial and practical work"
 
 
 +++
