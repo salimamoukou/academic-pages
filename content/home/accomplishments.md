@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-12-01"
   date_end = ""
-  description = "Tutorial and practical work"
+  description = "Tutorials and practical works"
 
 
 +++
